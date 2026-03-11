@@ -1,4 +1,3 @@
 libsdl2-dev
 libsdl2-ttf-dev
-libfreetype6-dev
 pkg-config
